@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/xinliu/static/css/main.93c10b9e.css",
+    "main.js": "/xinliu/static/js/main.6eea74c5.js",
+    "static/media/xin.jpg": "/xinliu/static/media/xin.ab278c0c6434d1eebfbe.jpg",
+    "static/media/into-img.jpg": "/xinliu/static/media/into-img.d920d3dad60c2dff9288.jpg",
+    "static/media/wechat.jpg": "/xinliu/static/media/wechat.1b36b2bb6a21b07dfd8b.jpg",
+    "static/media/ins.png": "/xinliu/static/media/ins.f5651ef269cad6d25b1b.png",
+    "static/media/projects.png": "/xinliu/static/media/projects.e0ab3139f71edf0173bd.png",
+    "index.html": "/xinliu/index.html",
+    "main.93c10b9e.css.map": "/xinliu/static/css/main.93c10b9e.css.map",
+    "main.6eea74c5.js.map": "/xinliu/static/js/main.6eea74c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93c10b9e.css",
+    "static/js/main.6eea74c5.js"
+  ]
+}
