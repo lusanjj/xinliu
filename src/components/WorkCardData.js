@@ -4,24 +4,24 @@ import pro3 from "../assets/projects.png"
 const ProjectCardData = [
     {
         imgsrc:pro1,
-        title:"Commerial web design",
-        text:"Online shopping simutualtor",
-        view:"https://youtu.be/tKwPzva-tOc",
-        source:"",
+        title:"Personal web design",
+        text:"Personal web that contains XIN's infomations and projects.",
+        view:"https://liuxin02.com/",
+        source:"https://github.com/lusanjj/xinliu",
     },
     {
         imgsrc:pro2,
-        title:"xxx project",
-        text:"xxx simutualtor",
-        view:"https://youtu.be/tKwPzva-tOc",
-        source:"",
+        title:"xxx project xxx",
+        text:"xxx description xxx",
+        view:"https://github.com/lusanjj/xinliu/blob/main/unavailable.md",
+        source:"https://github.com/lusanjj/xinliu/blob/main/unavailable.md",
     },
     {
         imgsrc:pro3,
-        title:"xxx project",
-        text:"xxx simutualtor",
-        view:"https://youtu.be/tKwPzva-tOc",
-        source:"",
+        title:"xxx project xxx",
+        text:"xxx description xxx",
+        view:"https://github.com/lusanjj/xinliu/blob/main/unavailable.md",
+        source:"https://github.com/lusanjj/xinliu/blob/main/unavailable.md",
     },
 ];
 export default ProjectCardData;
