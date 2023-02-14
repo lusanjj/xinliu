@@ -4,7 +4,7 @@ import React from 'react'
 function Form() {
   return (
     <div className="form">
-        <form action="https://formsubmit.co/lx1326607292@gmail.com" method="POST" target="_blank">
+        <form action="https://formsubmit.co/lx1326607292@gmail.com" method="POST" >
             <label>Your Name</label>
             <input type="text" name="name"></input>
             <label>Email</label>
