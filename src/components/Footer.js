@@ -8,12 +8,15 @@ const Footer = () => {
     <div className="footer">
       <div className="footer-container">
         <div className="left">
-          <div className="location">
-            <h4><FaSchool size={25} style={{ color: "#fff", marginRight: "2rem" }} /><p >Toronto Metropolitan University </p><p style={{textAlign:"center"}}>(Ryerson University)</p></h4>
+            <div className="location">
+            
+                <p><FaSchool size={20} style={{ color: "#fff", marginRight: "1rem" }} /><p >Toronto Metropolitan University </p><p style={{textAlign:"center"}}>(Ryerson University)</p></p>
             </div>
+
             <div className="email">
-            <h4><FaMailBulk size={20} style={{ color: "#fff", marginRight: "2rem" }} /> x13liu@torontomu.ca</h4>
+               <p><FaMailBulk size={20} style={{ color: "#fff", marginRight: "1rem" }} /> x13liu@torontomu.ca</p>        
             </div>
+            
             {/* <div className="github">
             <h4><FaGithub size={20} style={{ color: "#fff", marginRight: "2rem" }} /> https://github.com/lusanjj</h4>
             </div>

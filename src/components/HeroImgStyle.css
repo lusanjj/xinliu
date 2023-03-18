@@ -40,8 +40,8 @@
     text-align: center;
 }
 .hero .content h1{
-font-size: 3rem;
-padding: 0.6rem 0 1.5rem;
+    font-size: 3rem;
+    padding: 0.6rem 0 1.5rem;
 }
 
 .hero .content p{
@@ -53,6 +53,8 @@ padding: 0.6rem 0 1.5rem;
 .content .btn{
     margin: 1rem 0.2rem;
 }
+
+
 
 
 @media screen and (max-width:640px) {
