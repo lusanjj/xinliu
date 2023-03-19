@@ -10,11 +10,18 @@ const Footer = () => {
         <div className="left">
             <div className="location">
             
-                <p><FaSchool size={20} style={{ color: "#fff", marginRight: "1rem" }} /><p >Toronto Metropolitan University </p><p style={{textAlign:"center"}}>(Ryerson University)</p></p>
+                <p>
+                  <FaSchool size={20} style={{ color: "#fff", marginRight: "1rem" }} />
+                  <p>Toronto Metropolitan University </p>
+                  
+                  <p style={{textAlign:"center"}}>
+                    (Ryerson University)
+                  </p>
+                </p>
             </div>
 
             <div className="email">
-               <p><FaMailBulk size={20} style={{ color: "#fff", marginRight: "1rem" }} /> x13liu@torontomu.ca</p>        
+               <p><FaMailBulk size={20} style={{ color: "#fff", marginRight: "1rem" }} /> <p>x13liu@torontomu.ca</p></p>        
             </div>
             
             {/* <div className="github">
