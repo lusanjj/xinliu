@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="location">
             
                 <p>
-                  <FaSchool size={20} style={{ color: "#fff", marginRight: "1rem" }} />
+                  <FaSchool size={25} style={{ color: "#fff", marginRight: "1rem" }} />
                   <p>Toronto Metropolitan University </p>
                   
                   <p style={{textAlign:"center"}}>
@@ -21,7 +21,7 @@ const Footer = () => {
             </div>
 
             <div className="email">
-               <p><FaMailBulk size={20} style={{ color: "#fff", marginRight: "1rem" }} /> <p>x13liu@torontomu.ca</p></p>        
+               <p><FaMailBulk size={25} style={{ color: "#fff", marginRight: "1rem" }} /> <p>x13liu@torontomu.ca</p></p>        
             </div>
             
             {/* <div className="github">
