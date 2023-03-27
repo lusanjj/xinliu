@@ -1,5 +1,5 @@
 import pro1 from "../assets/personalWeb.png"
-import pro2 from "../assets/projects.png"
+import pro2 from "../assets/memoriesProject.png"
 import pro3 from "../assets/projects.png"
 const ProjectCardData = [
     {
@@ -11,10 +11,10 @@ const ProjectCardData = [
     },
     {
         imgsrc:pro2,
-        title:"xxx project xxx",
-        text:"xxx description xxx",
-        view:"https://github.com/lusanjj/xinliu/blob/main/unavailable.md",
-        source:"https://github.com/lusanjj/xinliu/blob/main/unavailable.md",
+        title:"Memory App",
+        text:"The App is called 'Memories' and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+        view:"https://europeangoldfinch.netlify.app/",
+        source:"https://github.com/lusanjj/memoryApp",
     },
     {
         imgsrc:pro3,
