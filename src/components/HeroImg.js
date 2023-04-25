@@ -14,7 +14,7 @@ const Heroimg = () => {
         <p>Hi, I'M XIN LIU.</p>
         <h1>Software Developer.</h1>
         <div>
-          <Link to="/project" className="btn">
+          <Link to="/resume" className="btn">
             Resume
           </Link>
           <Link to="/contact" className="btn btn-light">
