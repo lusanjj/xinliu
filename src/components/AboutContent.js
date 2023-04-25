@@ -4,19 +4,15 @@ import xin from "../assets/xin.jpg";
 
 const AboutContent = () => {
   return (
-    <div className="form">
-    <form action="https://formsubmit.co/lx1326607292@gmail.com" method="POST" >
-        <label>Your Name</label>
-        <input type="text" name="name"></input>
-        <label>Email</label>
-        <input type="email" name="email"></input>
-        <label>Subject</label>
-        <input type="text" name="text"></input>
-        <label>Message</label>
-        <textarea rows="6" placeholder="Type your message here"name="content"></textarea>
-        <button className="btn" type="submit">Submit</button>
-    </form>
-</div>
+    <div className="about">
+        <img src={xin} width="20%" className="img" alt="xin" ></img>
+        <h1 className="name">Xin Liu</h1>
+        <p className="describ">
+          A third year student of Computer Science at Toronto Metropolitan
+          Univeristy (Ryerson University).My primary areas of expertise include Java, python, C, HTML5, CSS3, and Javascript by using the react.js. I am always looking for new challenges to take on and I believe that working as part of a team is the best way to achieve success. I am eager to learn from others and share my own experiences and insights.
+        </p>
+
+      </div>
   );
 };
 
